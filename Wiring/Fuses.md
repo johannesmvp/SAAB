@@ -35,6 +35,11 @@ fuse | rating | function
 29 | 
 30 | 
 31 | 
+spare | 
+spare | 
+spare | 
+spare | 
+spare | 
 
 ## Fuse box under the rear seat
 fuse | rating | function
