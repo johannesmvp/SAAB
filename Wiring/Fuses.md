@@ -6,6 +6,8 @@ fuse | rating | function
 01 | 15A | Supply electricity while the regular ground cable is disconnected.
 
 ## Fuse box in the engine compartment
+fuse | rating | function
+:---: | :--- | :---:
 01 | 10A | Lambda Sensor
 02 | | _free_
 03 | 15A | Ignition Syst.
@@ -40,7 +42,6 @@ fuse | rating | function
 
 fuse | rating | function
 :---: | :--- | :---:
-
 _spare_ | _30A_
 _spare_ | _30A_
 _spare_ | _25A_
