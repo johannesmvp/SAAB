@@ -29,7 +29,7 @@ relay | function
 left | indicator relay
 right | windscreen wiper relay 
 
-## Behind the instrument panel, right side
+## Under the dashboard, behind the trim, right side
 
 relay | function
 :---: | :---
