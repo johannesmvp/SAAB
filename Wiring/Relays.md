@@ -3,7 +3,7 @@
 ## Engine compartment fuse box
 relay | function
 :---: | :---
-A+B | 
+A+B | Headlight relay
 C | 
 D | 
 E | 
@@ -26,8 +26,8 @@ F |
 ## Behind the instrument panel, left side
 relay | function
 :---: | :---
-left | 
-right | 
+left | indicator relay
+right | windscreen wiper relay 
 
 ## Behind the instrument panel, right side
 
