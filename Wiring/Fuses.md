@@ -2,7 +2,7 @@
 
 ## Fuse box in the engine compartment
 
-fuse | function | rating
+fuse | rating | function
 :---: | :--- | :---:
 01 | 
 02 | 
@@ -37,7 +37,7 @@ fuse | function | rating
 31 | 
 
 ## Fuse box under the rear seat
-fuse | function | rating
+fuse | rating | function
 :---: | :--- | :---:
 01 | 
 02 | 
