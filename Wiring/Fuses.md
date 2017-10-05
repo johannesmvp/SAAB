@@ -9,7 +9,7 @@ fuse | rating | function
 fuse | rating | function
 :---: | :--- | :---:
 01 | 10A | Lambda Sensor
-02 | | _free_
+02 | 
 03 | 15A | Ignition Syst.
 04 | 20A | Day Running Light
 05 | 15A | Windshield Wiper; Windshield Washer
@@ -18,7 +18,7 @@ fuse | rating | function
 08 | 10A | Head Lamp Wiper; Cruise Control
 09 | 30A | Ventilation Fan
 10 | 10A | Lamp Level Syst.; APC
-11 | | _free_
+11 | 
 **12** | **5A** | **Strobes**
 13 | 20A | Back-up Light; Cigarette Lighter
 14 | 15A | R. High Beam
@@ -31,7 +31,7 @@ fuse | rating | function
 21 | 15A | Rear Fog Light
 22 | 10A | Relays; Control Lamps Instr.
 23 | 10A | Dash Light
-24 | | _free_
+24 | 
 25 | 30A | Cooling Fan
 26 | 25A | Horns
 27 | 15A | Hazard Warning Light
