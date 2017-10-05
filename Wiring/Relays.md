@@ -4,7 +4,7 @@
 relay | function
 :---: | :---
 A+B | Headlights
-*C* | *Headlight Monitor*
+**C** | **Headlight Monitor**
 D | _free_
 E | Ignition Lock
 F | _free_
@@ -19,8 +19,8 @@ relay | function
 :---: | :---
 A | Belt-Key Warning (US, CA)
 B | Rear Window Defroster
-*C* | *Indicator Relay Remote Locking*
-*D* | *Lamp Out Indicator Relay*
+**C** | **Indicator Relay Remote Locking**
+**D** | **Lamp Out Indicator Relay**
 E | Interior Light
 F | Ignition Lock
 
@@ -28,8 +28,8 @@ F | Ignition Lock
 ## Behind the instrument panel, left side
 relay | function
 :---: | :---
-left | indicator relay
-right | windscreen wiper relay 
+left | Indicator Relay
+right | Windscreen Wiper Relay 
 
 ## Under the dashboard, behind the trim, right side
 
