@@ -1,5 +1,10 @@
 # Fuses
 
+## Fuse on the battery wiring (negative pole)
+fuse | rating | function
+:---: | :--- | :---:
+01 | 15A | Supply electricity while the regular ground cable is disconnected.
+
 ## Fuse box in the engine compartment
 
 fuse | rating | function
